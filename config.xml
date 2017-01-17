@@ -1,0 +1,48 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets" 
+   xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.rachel.test" version = "1.0">
+   
+   <name>GapTest</name>
+   
+   <description>
+      First App Built By Phone-Gap
+   </description>
+   
+   <author email = "roycefeifei@126.com">
+      Rachel Fei
+   </author>
+   
+   <preference name = "permissions" value = "none"/>
+   
+   <icon src = "res/icon/android/mipmap-ldpi/ic_launcher.png" 
+      gap:platform = "android" gap:qualifier = "ldpi" />
+		
+   <icon src = "res/icon/android/mipmap-mdpi/ic_launcher.png" 
+      gap:platform = "android" gap:qualifier = "mdpi" />
+		
+   <icon src = "res/icon/android/mipmap-hdpi/ic_launcher.png" 
+      gap:platform = "android" gap:qualifier = "hdpi" />
+		
+   <icon src = "res/icon/android/mipmap-xhdpi/ic_launcher.png" 
+      gap:platform = "android" gap:qualifier = "xhdpi" />
+		
+   <icon src = "res/icon/android/mipmap-xxhdpi/ic_launcher.png" 
+      gap:platform = "android" gap:qualifier = "xxhdpi" />
+   
+   <icon src = "res/icon/ios/Icon-72.png" gap:platform = "ios" gap:qualifier = "" /> 
+   <icon src = "res/icon/ios/Icon-20-2x.png" gap:platform = "ios" width = "40" height = "40" />
+   <icon src = "res/icon/ios/Icon-20-3x.png" gap:platform = "ios" width = "60" height = "60" />
+   <icon src = "res/icon/ios/Icon-29.png" gap:platform = "ios" width = "29" height = "29" />
+   <icon src = "res/icon/ios/Icon-29-2x.png" gap:platform = "ios" width = "58" height = "58" />
+   <icon src = "res/icon/ios/Icon-29-3x.png" gap:platform = "ios" width = "87" height = "87" />
+   <icon src = "res/icon/ios/Icon-40.png" gap:platform = "ios" width = "40" height = "40" />
+   <icon src = "res/icon/ios/Icon-40-2x.png" gap:platform = "ios" width = "80" height = "80" />
+   <icon src = "res/icon/ios/Icon-40-3x.png" gap:platform = "ios" width = "120" height = "120" />
+   <icon src = "res/icon/ios/Icon-57.png" gap:platform = "ios" width = "57" height = "57" />
+   <icon src = "res/icon/ios/Icon-57-2x.png" gap:platform = "ios" width = "114" height = "114" />
+   <icon src = "res/icon/ios/Icon-60.png" gap:platform = "ios" width = "60" height = "60" />
+   <icon src = "res/icon/ios/Icon-60-2x.png" gap:platform = "ios" width = "120" height = "120" />
+   <icon src = "res/icon/ios/Icon-60-3x.png" gap:platform = "ios" width = "180" height = "180" />   
+      
+</widget>
